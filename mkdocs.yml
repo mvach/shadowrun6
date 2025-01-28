@@ -1,6 +1,7 @@
 site_name: Shadowrun 6 Regeln
 theme:
   name: material
+repo_url: https://github.com/mvach/shadowrun6
 
 site_name: Navigation
 nav:
