@@ -4,8 +4,8 @@ theme:
 
 site_name: Navigation
 nav:
-  - Home: index.md
   - kampf.md
+  - waffen.md
 
 markdown_extensions:
   - attr_list
