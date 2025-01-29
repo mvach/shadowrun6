@@ -5,6 +5,7 @@ repo_url: https://github.com/mvach/shadowrun6
 
 site_name: Navigation
 nav:
+  - Home: index.md
   - kampf.md
   - waffen.md
 
