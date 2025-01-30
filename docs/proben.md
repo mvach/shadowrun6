@@ -1,6 +1,6 @@
 # Proben
 
-## Einfache Proben
+## Einfache Proben [EP]
 
 :material-dice-6-outline: Fertigkeit + Attribut >= Schwellwert
 
@@ -16,7 +16,7 @@
 
 :octicons-book-24: GRW 36
 
-## Vergleichende Proben
+## Vergleichende Proben [VP]
 
 :material-dice-6-outline: Fertigkeit + Attribut vs. Fertigkeit + Attribut
 
@@ -26,7 +26,7 @@ Nettoerfolge = Agressorerfolge - Wiederstandserfolge
 
 :octicons-book-24: GRW 36
 
-## Ausgedehnte Proben
+## Ausgedehnte Proben [AP]
 
 Ausgedehnte Proben entsprechen mehrfachen einfachen Proben.
 
