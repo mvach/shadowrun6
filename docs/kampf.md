@@ -2,7 +2,7 @@
 
 ## Initiative
 
-:material-dice-6-outline: Reaktion + Intuition + Summe der Augenzahl der Initiativewürfel
+:material-dice-6-outline: Initiativewert = Reaktion + Intuition + Summe der Augenzahl der Initiativewürfel
 
 Initiative wird zu Beginn eines Kampfes gewürfelt.
 
@@ -22,14 +22,14 @@ Eine Kampfrunde dauert 3s.
 
 ### Pool bilden
 
-:material-dice-6-outline: Angreifer: Waffenfertigkeit + Geschicklichkeit  
-:material-dice-6-outline: Verteidiger: Reaktion + Intuition
+:material-dice-6-outline: Angriffspool = Waffenfertigkeit + Geschicklichkeit - [Deckungsmalus](status.md#deckung)  
+:material-dice-6-outline: Verteidigungspool = Reaktion + Intuition
 
 :octicons-book-16: GRW 107
 
 ### Würfeln
 
-Mit Poolwürfeln fürfeln und 5 und 6 zählen.
+Mit Poolwürfeln würfeln und 5 und 6 zählen.
 
 Die Anzahl der Erfolge des Angreifers und Verteidigers vergleichen. Bei Gleichstand gewinnt der Angreifer.
 
@@ -43,7 +43,7 @@ Schadenswert der Waffe + Nettoerfolge (Angriffserfolge - Verteidigungserfolge)
 
 ### Schaden wiederstehen
 
-:material-dice-6-outline: Konstitution
+:material-dice-6-outline: Verteidigungspool = Konstitution + Panzerung + [Deckungsbonus](status.md#deckung)
 
 Jede 5 und 6 absorbiert einen Schaden.
 

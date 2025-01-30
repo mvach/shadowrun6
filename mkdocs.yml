@@ -8,6 +8,7 @@ nav:
   - Home: index.md
   - kampf.md
   - proben.md
+  - status.md
   - waffen.md
 
 markdown_extensions:
