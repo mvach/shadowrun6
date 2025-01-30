@@ -11,6 +11,12 @@
 
 Es gibt vier Deckungsstufen, die angeben zu wieviel Prozent (25%, 50%, 75%, 100%) ein Charakter geschützt ist.
 
-Aus der Deckung angreifen kostet eine Nebenhandlung
+Aus der Deckung angreifen kostet eine Nebenhandlung  
+Sich [in Deckung begeben](handlungen.md#in-deckung-gehen-i) ist ebenfalls eine Nebenhandlung 
 
-:octicons-book-24: GRW 54
+!!! warning annotate "Wenn man zu 100% in Deckung ist gibt es weiteren Bonus"
+
+    Der Schadenswert der Waffe wird um die halbe aufgerundete [Strukturstufe](barrieren.md#strukturstufen) der Deckung reduziert.  
+    Nur wenn dann noch Schaden übrig ist, werden die Nettoerfolge des Angreifers aufaddiert. Und nur dann muss man dem Ergebnis wiederstehen.
+
+:octicons-book-24: GRW 54, 115

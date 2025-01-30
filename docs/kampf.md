@@ -29,7 +29,7 @@ Eine Kampfrunde dauert 3s.
 
 ### Würfeln
 
-Mit Poolwürfeln würfeln und 5 und 6 zählen.
+**EP** Mit Poolwürfeln würfeln und 5 und 6 zählen.
 
 Die Anzahl der Erfolge des Angreifers und Verteidigers vergleichen. Bei Gleichstand gewinnt der Angreifer.
 
@@ -37,7 +37,8 @@ Die Anzahl der Erfolge des Angreifers und Verteidigers vergleichen. Bei Gleichst
 
 ### Schaden ermitteln
 
-Schadenswert der Waffe + Nettoerfolge (Angriffserfolge - Verteidigungserfolge)
+Schaden = Schadenswert der Waffe + Nettoerfolge  
+Nettoerfolge = Angriffserfolge - Verteidigungserfolge
 
 :octicons-book-16: GRW 108
 

@@ -23,7 +23,7 @@ Transponderschlösser gelten als ein klein wenig komplizierter als standard Zyli
 :octicons-book-16: GRW 240, 279
 
 Magschlösser sind die am weitesten verbreiteten Schlösser sie sind häufig mit Systemen verbunden die das Öffnen und Schließen aufzeichnen.  
-Als Schlüssel diehnen Magnetkarten, biometrische Daten, RFID Karten, Zahlencodes, ... .
+Als Schlüssel dienen Magnetkarten, biometrische Daten, RFID Karten, Zahlencodes, ... .
 
 Zunächst muss immer das Gehäuse des Magschlosses entfernt werden.
 
