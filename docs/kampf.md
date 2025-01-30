@@ -37,7 +37,7 @@ Die Anzahl der Erfolge des Angreifers und Verteidigers vergleichen. Bei Gleichst
 
 ### Schaden ermitteln
 
-Schaden = Schadenswert der Waffe + Nettoerfolge  
+Schaden = Schadenswert der Waffe + Nettoerfolge + [Feuermodusmodus Bonus](waffen.md#feuermodi)  
 Nettoerfolge = Angriffserfolge - Verteidigungserfolge
 
 :octicons-book-16: GRW 108
