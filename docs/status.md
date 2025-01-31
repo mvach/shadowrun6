@@ -20,3 +20,14 @@ Sich [in Deckung begeben](handlungen.md#in-deckung-gehen-i) ist ebenfalls eine N
     Nur wenn dann noch Schaden übrig ist, werden die Nettoerfolge des Angreifers aufaddiert. Und nur dann muss man dem Ergebnis wiederstehen.
 
 :octicons-book-24: GRW 54, 115
+
+## Liegen
+
+:material-dice-6-outline: +2 [Verteidigungspool](kampf.md#wurfeln) bei Angriffen aus mittlerer oder größerer Entfernung.  
+:material-dice-6-outline: -2 [Angriffspool](kampf.md#wurfeln) bei Angriffen auf kurze und sehr kurze Entfernung.
+
+Bewegungsrate sinkt auf 2 Meter
+
++2 Angriffswert bei Feuer und Projektilwaffen (außer Bögen)
+
+:octicons-book-24: GRW 54
