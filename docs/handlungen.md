@@ -4,11 +4,9 @@ Handlungen können entweder jederzeit (**J**) oder in Initiativereihenfolge (**I
 
 ## Nebenhandlungen
 
-### In Deckung Gehen (I)
+### Abfangen (J)
 
-Durch diese Handlung gelang man in [Deckung](status.md#deckung)
-
-:octicons-book-16: GRW 43
+Bewegt sich ein Gegner in Nahkampfdistanz an einem Charakter vorbei, ist kann dieser ihn, außerhalb der Initiativereihenfolge, abfangen und mit einer Nahkampfwaffe angreifen, wenn er noch eine Haupt- und eine Nebenhandlung hat.
 
 ### Aufstehen (I)
 
@@ -25,5 +23,11 @@ Ein Charakter kann einmal im Kampf seine Athletik-Fertigkeiten zu einer einzelne
 ### Bewegen (I)
 
 Einmal pro Kampfrunde bis zu 10 Meter bewegen
+
+### In Deckung Gehen (I)
+
+Durch diese Handlung gelang man in [Deckung](status.md#deckung)
+
+:octicons-book-16: GRW 43
 
 ## Haupthandlungen
