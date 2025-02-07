@@ -23,14 +23,14 @@ Eine Kampfrunde dauert 3s.
 ### Pool bilden
 
 :material-dice-6-outline: Angriffspool = Waffenfertigkeit + Geschicklichkeit - [Deckungsmalus](status.md#deckung)  
-:material-dice-6-outline: Verteidigungsprobe: Verteidigungspool = Reaktion + Intuition
+:material-dice-6-outline: Verteidigungspool = Reaktion + Intuition
 
 :octicons-book-16: GRW 107
 
 ### Würfeln
 
-**EP** Angriffsprobe: Mit Poolwürfeln würfeln und 5 und 6 zählen.  
-**EP** Verteidigungsprobe: Mit Poolwürfeln würfeln und 5 und 6 zählen.
+**EP**: **Angriffsprobe**: Mit Angriffspool würfeln und 5 und 6 zählen.  
+**EP**: **Verteidigungsprobe**: Mit Verteidigungspool würfeln und 5 und 6 zählen.
 
 Die Anzahl der Erfolge des Angreifers und Verteidigers vergleichen. Bei Gleichstand gewinnt der Angreifer.
 
