@@ -2,7 +2,13 @@
 
 ## Einfache Proben [EP]
 
-:material-dice-6-outline: Fertigkeit + Attribut >= Schwellwert
+:material-dice-6-outline: Fertigkeit + Attribut >= [Schwellwert](proben.md#schwellwerte)
+
+Man würfelt mit dem Pool, zählt die Erfolge und überprüft ob diese >= dem Schwellwert sind.
+
+### Schwellwerte
+
+Der Schwellwert wind vom Spielleiter festgelegt
 
 | Schwellwert | Level                       | Beispiel                                                                           |
 | ----------- | --------------------------- | ---------------------------------------------------------------------------------- |
@@ -21,8 +27,8 @@
 :material-dice-6-outline: Fertigkeit + Attribut vs. Fertigkeit + Attribut
 
 Bei vergleichenden Proben leistet eine Person, ein Gegenstand, ein Gerät, ... aktiv Widerstand.  
-Beide Seiten würfeln ihre Würfelpools und vergleichen die Erfolge. Bei Gleichstand gewinnt der Agressor.  
-Nettoerfolge = Agressorerfolge - Wiederstandserfolge
+Beide Seiten würfeln ihre Würfelpools und vergleichen die Erfolge. Bei Gleichstand gewinnt der Aggressor.  
+Nettoerfolge = Aggressorerfolge - Wiederstandserfolge
 
 :octicons-book-24: GRW 36
 

@@ -4,3 +4,22 @@
 
 Aktionsfertigkeiten sind diejenigen, die direkt in die interaktive Handlung im Spiel eingebunden sind, also bei Kämpfen, Verhandlungen, Fahrten, Zauberwirkungen usw.
 
+## Heimlichkeit
+
+:octicons-book-16: GRW 97
+
+## Wahrnehmung
+
+Will man die Umgebung genau durchsuchen:  
+**EP**: Wahrnehmung + Intuition >= [Schwellwert](proben.md#schwellwerte)
+
+Will man jemanden entdecken, der sich versteckt:  
+**VP**: (Suchender) Wahrnehmung + Intuition >= Heimlichkeit + Geschicklichkeit (Versteckter)
+
+Will man jemanden entdecken, der sich mit heimlich versteckt:  
+**VP**: (Suchender) Wahrnehmung + Intuition >= [Schwellwert der Heimlichkeit](#heimlichkeit) (Versteckter)
+
+Will man Verbindung zwischen Informationen oder Muster in Bewegungen erkennen:
+**EP**: Wahrnehmung + Logik >= [Schwellwert](proben.md#schwellwerte)
+
+:octicons-book-16: GRW 99

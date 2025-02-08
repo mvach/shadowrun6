@@ -161,17 +161,14 @@ Ein Charakter kann eine seiner [Fertigkeiten](fertigkeiten.md#fertigkeiten) eins
 
 ### Gegenstand aufheben/ablegen (I)
 
-Ein Charakter kann einen Gegenstand mit Sorgfalt aufheben oder ablegen. Waffen werden zugleich bereit gemacht.
+Ein Charakter kann einen Gegenstand mit Sorgfalt aufheben oder ablegen.  
+Waffen werden zugleich bereit gemacht.
 
 :octicons-book-16: GRW 45
 
 ### Genau beobachten (I)
 
-
-
-:octicons-book-16: GRW 45
-
-### Hineinspringen (I)
+Ein Charakter kann eine [Wahrnehmungsprobe](fertigkeiten.md#wahrnehmung) ablegen.
 
 :octicons-book-16: GRW 45
 
