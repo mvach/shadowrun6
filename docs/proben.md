@@ -36,8 +36,15 @@ Nettoerfolge = Aggressorerfolge - Wiederstandserfolge
 
 Ausgedehnte Proben entsprechen mehrfachen einfachen Proben.
 
-Angenommen, ein Charakter versucht, ein komplexes Programm zu knacken. Der Spielleiter könnte insgesamt 10 Erfolge dafür einfordern. 
+Angenommen, ein Char versucht, ein komplexes Programm zu knacken. Der Spielleiter könnte insgesamt 10 Erfolge dafür einfordern. 
 
-Der Charakter legt mehrere Proben ablegen, wobei jede Probe eine gewisse Zeit dauert. Wenn er bei der ersten Probe 2 Erfolge erzielt, hat er 2 von 10 geschafft. Bei der nächsten Probe bekommt er vielleicht 3 Erfolge. Wenn der Charakter in einer Probe einen Fehlschlag hat, kann das den Fortschritte stoppen oder die Anzahl der benötigten Erfolge erhöhen.
+Der Char legt mehrere Proben ablegen, wobei jede Probe eine gewisse Zeit dauert. Wenn er bei der ersten Probe 2 Erfolge erzielt, hat er 2 von 10 geschafft. Bei der nächsten Probe bekommt er vielleicht 3 Erfolge. Wenn der Char in einer Probe einen Fehlschlag hat, kann das den Fortschritte stoppen oder die Anzahl der benötigten Erfolge erhöhen.
 
 :octicons-book-24: GRW 36
+
+## Teamworkprobe
+
+Es gibt einen Anführer und viele Helfer. Alle würfeln die gleiche Probe. Die Helfer würfeln zuerst.  
+Alle erzielten Erfolge erhöhen den Pool des Anführers um 1. Maximal bis zum Fertigkeitswert des Anführers.
+
+:octicons-book-24: GRW 38

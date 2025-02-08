@@ -9,7 +9,7 @@
 
 :material-dice-6-outline: bei Verteidigungsproben: + 1 (je Deckungsstufe)
 
-Es gibt vier Deckungsstufen, die angeben zu wieviel Prozent (25%, 50%, 75%, 100%) ein Charakter geschützt ist.
+Es gibt vier Deckungsstufen, die angeben zu wieviel Prozent (25%, 50%, 75%, 100%) ein Char geschützt ist.
 
 Aus der Deckung angreifen kostet eine Nebenhandlung  
 Sich [in Deckung begeben](handlungen.md#in-deckung-gehen-i) ist ebenfalls eine Nebenhandlung 
