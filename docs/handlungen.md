@@ -12,7 +12,7 @@ Bewegt sich ein Gegner in Nahkampfdistanz an einem Charakter vorbei, ist kann di
 
 ### Aufstehen (I)
 
-Durch diese Handlung verläßt man den status [liegend](status.md#liegen).
+Durch diese Handlung verläßt man den Status [liegend](status.md#liegen).
 
 :octicons-book-16: GRW 42
 
@@ -46,7 +46,7 @@ Hiermit kann man den Modus eines Gerätes, mit dem man verbunden ist, ändern. Z
 
 :octicons-book-16: GRW 43
 
-### In Deckung Gehen (I)
+### In Deckung gehen (I)
 
 Durch diese Handlung gelang man in [Deckung](status.md#deckung).
 
@@ -68,7 +68,7 @@ Der Charakter muss dazu das nötige Equipment besitzen.
 
 ### Sich hinwerfen (I)
 
-Durch diese Handlung gelangt man in den status [liegend](status.md#liegen).
+Durch diese Handlung gelangt man in den Status [liegend](status.md#liegen).
 
 :octicons-book-16: GRW 43
 
@@ -85,7 +85,7 @@ Der Charakter muss dazu das nötige Equipment besitzen.
 :material-dice-6-outline: Verteidigungspool + 2  
 :material-dice-6-outline: [Aktionsfertigkeiten](fertigkeiten.md#aktionsfertigkeiten) - 2  
 
-Durch diese Handlung gelangt man in den status [liegend](status.md#liegen).
+Durch diese Handlung gelangt man in den Status [liegend](status.md#liegen).
 
 :octicons-book-16: GRW 44
 
@@ -96,7 +96,7 @@ Durch diese Handlung gelangt man in den status [liegend](status.md#liegen).
 Ermöglicht die Flucht bei Spreng- und Gasangriffen, wenn ich der gleichen Kampfrunde nicht bereits Weghechten, Bewegen oder Sprinten gespielt wurde.
 
 Der Charakter kann so viele Meter wie er erfolge hat in eine gewünschte Richtung flüchten. Die Richtungsabweichung des Angriffs erfährt er erst nach der Flucht.  
-Bewegt man sich mehr als 2m befindet man sich danach im status [liegend](status.md#liegen).
+Bewegt man sich mehr als 2m befindet man sich danach im Status [liegend](status.md#liegen).
 
 #### Ausweichmalus
 | [Entfernung](waffen.md#reichweiten) | Poolmalus |
@@ -113,6 +113,26 @@ Bewegt man sich mehr als 2m befindet man sich danach im status [liegend](status.
 :material-dice-6-outline: [Angriffsprobe](kampf.md#wurfeln) - 2
 
 Diese Handlung muss mit der Handlung [Angriff](#angriff) kombiniert werden.
+
+:octicons-book-16: GRW 44
+
+### Zielen (I)
+
+:material-dice-6-outline: [Angriffsprobe](kampf.md#wurfeln) + 1
+
+Kann nur einmal pro Kampfrunde genutzt werden.
+
+Wird der Bonus nicht verwendet kann wird er in die nächste Kampfrunde übertragen, mehrfaches Ansammeln ist möglich. Führt ein Charakter in eine Kampfrunde weder [Zielen](#zielen) noch [Angriff](#angriff) aus, verfällt der Bonus. Die maximal Ansammlung entspricht der Willenskraft des Charakters.
+
+Verwendet ein Charakter eine Sichtvergrößerung oder ein Zielfehrnrohr bringt die erste Handlung von [Zielen](#zielen) noch keinen Bonus sondern aktiviert nur das Zusatzgerät.
+
+:octicons-book-16: GRW 44
+
+### Zu Fall bringen
+
+:material-dice-6-outline: **VP** (Angreifer) [Angriffsschaden](kampf.md#schaden-ermitteln) - 2 >= Athletik + Geschicklichkeit (Verteidiger)
+
+Mit einer Nahkampfwaffe kann zusammen mit einem [Angriff](#angriff) das Ziel zu Boden gebracht werden. Bei Erfolg ist das Ziel danach im Status [liegend](status.md#liegen).
 
 :octicons-book-16: GRW 44
 
