@@ -124,7 +124,7 @@ Kann nur einmal pro Kampfrunde genutzt werden.
 
 Wird der Bonus nicht verwendet kann wird er in die nächste Kampfrunde übertragen, mehrfaches Ansammeln ist möglich. Führt ein Charakter in eine Kampfrunde weder [Zielen](#zielen) noch [Angriff](#angriff) aus, verfällt der Bonus. Die maximal Ansammlung entspricht der Willenskraft des Charakters.
 
-Verwendet ein Charakter eine Sichtvergrößerung oder ein Zielfehrnrohr bringt die erste Handlung von [Zielen](#zielen) noch keinen Bonus sondern aktiviert nur das Zusatzgerät.
+Verwendet ein Charakter eine Sichtvergrößerung oder ein Zielfernrohr bringt die erste Handlung von [Zielen](#zielen) noch keinen Bonus sondern aktiviert nur das Zusatzgerät.
 
 :octicons-book-16: GRW 44
 
@@ -141,3 +141,56 @@ Mit einer Nahkampfwaffe kann zusammen mit einem [Angriff](#angriff) das Ziel zu 
 ### Angriff (I)
 
 Durch dies Handlung führt der Charakter einen Angriff aus.
+
+:octicons-book-16: GRW 44
+
+### Einfaches Gerät verwenden (I)
+
+Hiermit lassen sich Schalter oder Icons drücken.
+
+Komplexe Geräte benötigen länger. Die benötigte Zeit bestimmt die Gerätebeschreibung oder der Spielleiter.
+
+Geräte mit Neuralink Interface bedient man mit der Nebenhandlung [Gerätemodus ändern](#gerätemodus-ändern-j)
+:octicons-book-16: GRW 44
+
+### Fertigkeit einsetzen (I)
+
+Ein Charakter kann eine seiner [Fertigkeiten](fertigkeiten.md#fertigkeiten) einsetzen
+
+:octicons-book-16: GRW 44
+
+### Gegenstand aufheben/ablegen (I)
+
+Ein Charakter kann einen Gegenstand mit Sorgfalt aufheben oder ablegen. Waffen werden zugleich bereit gemacht.
+
+:octicons-book-16: GRW 45
+
+### Genau beobachten (I)
+
+
+
+:octicons-book-16: GRW 45
+
+### Hineinspringen (I)
+
+:octicons-book-16: GRW 45
+
+### Sprinten (I)
+
+:octicons-book-16: GRW 45
+
+### Unterstützen (I)
+
+:octicons-book-16: GRW 46
+
+### Volle Abwehr (I)
+
+:octicons-book-16: GRW 46
+
+### Waffe bereit machen (I)
+
+:octicons-book-16: GRW 46
+
+### Waffe nachladen (I)
+
+:octicons-book-16: GRW 46
