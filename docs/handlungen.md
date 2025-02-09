@@ -36,7 +36,7 @@ Ein Char kann seine Nahkampffertigkeit zu einer einzelnen [Verteidigungsprobe](k
 
 ### Gegenstand fallen lassen (J)
 
-Durch diese Handlung lässt man einen Gegenstand fallen. Ob der Gegenstand dabei beschädigt wird, entscheidet der Spielleiter.
+Durch diese Handlung lässt man einen Gegenstand fallen. Ob der Gegenstand dabei beschädigt wird, entscheidet der SL.
 
 :octicons-book-16: GRW 43
 
@@ -91,7 +91,7 @@ Durch diese Handlung gelangt man in den Status [liegend](status.md#liegen).
 
 ### Weghechten (J)
 
-:material-dice-6-outline: **EP**: Athletik + Reaktion - Ausweichmalus
+:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Athletik + Reaktion - Ausweichmalus
 
 Ermöglicht die Flucht bei Spreng- und Gasangriffen, wenn ich der gleichen Kampfrunde nicht bereits Weghechten, Bewegen oder Sprinten gespielt wurde.
 
@@ -130,7 +130,7 @@ Verwendet ein Char eine Sichtvergrößerung oder ein Zielfernrohr bringt die ers
 
 ### Zu Fall bringen
 
-:material-dice-6-outline: **VP** (Angreifer) [Angriffsschaden](kampf.md#schaden-ermitteln) - 2 >= Athletik + Geschicklichkeit (Verteidiger)
+:material-dice-6-outline: **[VP](proben.md#vergleichende-proben-vp)**: (Angreifer) [Angriffsschaden](kampf.md#schaden-ermitteln) - 2 >= Athletik + Geschicklichkeit (Verteidiger)
 
 Mit einer Nahkampfwaffe kann zusammen mit einem [Angriff](#angriff) das Ziel zu Boden gebracht werden. Bei Erfolg ist das Ziel danach im Status [liegend](status.md#liegen).
 
@@ -148,7 +148,7 @@ Durch dies Handlung führt der Char einen Angriff aus.
 
 Hiermit lassen sich Schalter oder Icons drücken.
 
-Komplexe Geräte benötigen länger. Die benötigte Zeit bestimmt die Gerätebeschreibung oder der Spielleiter.
+Komplexe Geräte benötigen länger. Die benötigte Zeit bestimmt die Gerätebeschreibung oder der SL.
 
 Geräte mit Neuralink Interface bedient man mit der Nebenhandlung [Gerätemodus ändern](#gerätemodus-ändern-j)
 
@@ -175,7 +175,7 @@ Ein Char kann eine [Wahrnehmungsprobe](fertigkeiten.md#wahrnehmung) ablegen.
 
 ### Sprinten (I)
 
-:material-dice-6-outline: **EP**: Athletik + Geschicklichkeit
+:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Athletik + Geschicklichkeit
 
 Die Strecke beträgt 15m + 1m * Anzahl der Erfolge
 
@@ -183,7 +183,7 @@ Die Strecke beträgt 15m + 1m * Anzahl der Erfolge
 
 ### Unterstützen (I)
 
-Ein Char kann bei einer [Teamworkprobe](proben.md#teamworkprobe) mithelfen.
+Ein Char kann bei einer [Teamworkprobe](proben.md#teamworkproben-tp) mithelfen.
 
 :octicons-book-16: GRW 46
 

@@ -29,8 +29,8 @@ Eine Kampfrunde dauert 3s.
 
 ### Würfeln
 
-**EP**: **Angriffsprobe**: Mit Angriffspool würfeln und 5 und 6 zählen.  
-**EP**: **Verteidigungsprobe**: Mit Verteidigungspool würfeln und 5 und 6 zählen.
+**[EP](proben.md#einfache-proben-ep)**: **Angriffsprobe**: Mit Angriffspool würfeln und 5 und 6 zählen.  
+**[EP](proben.md#einfache-proben-ep)**: **Verteidigungsprobe**: Mit Verteidigungspool würfeln und 5 und 6 zählen.
 
 Die Anzahl der Erfolge des Angreifers und Verteidigers vergleichen. Bei Gleichstand gewinnt der Angreifer.
 

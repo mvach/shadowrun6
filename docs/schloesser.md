@@ -2,7 +2,7 @@
 
 ## Zylinderschlösser
 
-:material-dice-6-outline: **EP**: Mechanik + Geschicklichkeit (+1 mit Dietrich) >= Schlossstufe (1-6)
+:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Mechanik + Geschicklichkeit (+1 mit Dietrich) >= Schlossstufe (1-6)
 
 Standard Zylinderschlösser gelten als kurios und halten nur wenige Sekunden auf.
 
@@ -10,7 +10,7 @@ Standard Zylinderschlösser gelten als kurios und halten nur wenige Sekunden auf
 
 ## Transponderschlösser
 
-:material-dice-6-outline: **EP**: Mechanik + Geschicklichkeit >= Schlossstufe (1-6)
+:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Mechanik + Geschicklichkeit >= Schlossstufe (1-6)
 
 :material-exclamation-thick: Eine Elektronik-Werkzeugkiste wird benötigt um das Schloss zu knacken.
 
@@ -27,21 +27,21 @@ Als Schlüssel dienen Magnetkarten, biometrische Daten, RFID Karten, Zahlencodes
 
 Zunächst muss immer das Gehäuse des Magschlosses entfernt werden.
 
-:material-dice-6-outline: Entfernen **EP**: Mechanik + Geschicklichkeit >= Schlossstufe *2  (Dauer eine Kampfrunde)  
-:material-dice-6-outline: Aufbrechen **AP**: Mechanik + Geschicklichkeit >= Schlossstufe* 2
+:material-dice-6-outline: Entfernen **[EP](proben.md#einfache-proben-ep)**: Mechanik + Geschicklichkeit >= Schlossstufe *2  (Dauer eine Kampfrunde)  
+:material-dice-6-outline: Aufbrechen **[AP](proben.md#ausgedehnte-proben-ap)**: Mechanik + Geschicklichkeit >= Schlossstufe* 2
 
 Danach ist je nach Typ unterschiedlich vorzugehen:
 
 ### Tastaturschloss
 
-:material-dice-6-outline: **AP**: Mechanik + Geschicklichkeit >= Schlossstufe * 2  (Dauer eine Kampfrunde)  
-:material-dice-6-outline: mit Sequencer **VP**: Sequencerstufe vs Schlossstufe
+:material-dice-6-outline: **[AP](proben.md#ausgedehnte-proben-ap)**: Mechanik + Geschicklichkeit >= Schlossstufe * 2  (Dauer eine Kampfrunde)  
+:material-dice-6-outline: mit Sequencer **[VP](proben.md#vergleichende-proben-vp)**: Sequencerstufe vs Schlossstufe
 
 ### Kartenleser
 
-:material-dice-6-outline: **AP**: Mechanik + Geschicklichkeit >= Schlossstufe * 2  (Dauer eine Kampfrunde)  
-:material-dice-6-outline: mit Sequencer **VP**: Stufe Sequencer vs Schlossstufe
-:material-dice-6-outline: mit Magschlossknacker **VP**: Stufe Magschlossknacker vs Schlossstufe
+:material-dice-6-outline: **[AP](proben.md#ausgedehnte-proben-ap)**: Mechanik + Geschicklichkeit >= Schlossstufe * 2  (Dauer eine Kampfrunde)  
+:material-dice-6-outline: mit Sequencer **[VP](proben.md#vergleichende-proben-vp)**: Stufe Sequencer vs Schlossstufe
+:material-dice-6-outline: mit Magschlossknacker **[VP](proben.md#vergleichende-proben-vp)**: Stufe Magschlossknacker vs Schlossstufe
 
 ### Biometrische Scanner
 
