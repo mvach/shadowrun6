@@ -12,7 +12,7 @@ Initiative wird zu Beginn eines Kampfes gewürfelt.
 
 Eine Kampfrunde dauert 3s.
 
-1 Haupthandlung + 1 Nebenhandlung + 1 Nebenhandling je Initiativewürfel
+1 [Haupthandlung](handlungen.md#haupthandlungen) + 1 [Nebenhandlung](handlungen.md#nebenhandlungen) + 1 [Nebenhandlung](handlungen.md#nebenhandlungen) je Initiativewürfel
 
 1 Haupthandlung kann gegen 4 Nebenhandlung getauscht werden
 
@@ -38,7 +38,7 @@ Die Anzahl der Erfolge des Angreifers und Verteidigers vergleichen. Bei Gleichst
 
 ### Schaden ermitteln
 
-Schaden = Schadenswert der Waffe + Nettoerfolge + [Feuermodusmodus Bonus](waffen.md#feuermodi)  
+Schaden = Schadenswert der Waffe + Nettoerfolge + [Feuermodus Bonus](waffen.md#feuermodi)  
 Nettoerfolge = Angriffserfolge - Verteidigungserfolge
 
 :octicons-book-16: GRW 108
