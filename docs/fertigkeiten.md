@@ -10,7 +10,7 @@ Diese Fertigkeit umfasst alles was mit körperlicher Leistungsfähigkeit und Anm
 
 ### Springen
 
-**[EP](proben.md#einfache-proben-ep)**: Athletik + Geschicklichkeit
+:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Athletik + Geschicklichkeit
 
 Pro Erfolg springt man:  
 
@@ -21,7 +21,7 @@ Pro Erfolg springt man:
 
 ### Entfesseln
 
-**[EP](proben.md#einfache-proben-ep)**: Athletik + Geschicklichkeit
+:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Athletik + Geschicklichkeit
 
 | Schwellwert                          | Fessel                      |
 | ------------------------------------ | --------------------------- |
@@ -38,7 +38,7 @@ Pro Erfolg springt man:
 
 ### Klettern
 
-**[EP](proben.md#einfache-proben-ep)**: Athletik + Stärke
+:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Athletik + Stärke
 
 Für jeden Erfolg klettert man 1m nach oben, unten oder seitwärts.
 
@@ -55,7 +55,7 @@ Für jeden Erfolg klettert man 1m nach oben, unten oder seitwärts.
 
 ### Schwimmen
 
-**[EP](proben.md#einfache-proben-ep)**: Athletik + Geschicklichkeit >= 2
+:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Athletik + Geschicklichkeit >= 2
 
 Benötigt eine Nebenhandlung.  
 Die Grundgeschwindigkeit ist 3m pro Kampfrunde. Die Geschwindigkeit erhöht sich je Nettoerfolg / 2 (abgerundet) um 1m.
@@ -64,9 +64,23 @@ Je nach Gewässer kann der Schwellwert erhöht werden. Zudem steig nach je 15min
 
 :octicons-book-16: GRW 95
 
+## Einfluss
+
+Für die meisten Proben gilt:  
+:material-dice-6-outline: **[VP](proben.md#vergleichende-proben-vp)**: (Angreifer) Einfluss + Charisma >= Willenskraft + Intuition
+
+Beruft sich ein Char auf die reine Vernunft:  
+:material-dice-6-outline: **[VP](proben.md#vergleichende-proben-vp)**: (Angreifer) Einfluss + Logik >= Willenskraft + Logik
+
+Wird Einfluss beim lernen von Fertigkeiten genutzt, sinkt die Lerndauer pro Erfolg um 1 Tag.  
+Der Lehrer muss min. die Fertigkeit 4 in der zu unterrichtenden Fertigkeit besitzen.  
+:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Einfluss + Charisma
+
+:octicons-book-16: GRW 96
+
 ## Heimlichkeit
 
-:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)** Heimlichkeit + Geschicklichkeit
+:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Heimlichkeit + Geschicklichkeit
 
 Für eine geplante heimliche Aktion legt man zu begin eine **[EP](proben.md#einfache-proben-ep)** ab. Die erzielten Erfolge bestimmen für all Beobachter den Schwellwert der Entdeckung.
 
