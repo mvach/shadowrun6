@@ -51,11 +51,18 @@ Für jeden Erfolg klettert man 1m nach oben, unten oder seitwärts.
 | +1                                   | Oberfläche ist präpariert gegen das Überwinden |
 | -1                                   | Ausgeprägte Hand und Fußgriffe                 |
 
-:octicons-book-16: GRW 97
+:octicons-book-16: GRW 95
 
 ### Schwimmen
 
-:octicons-book-16: GRW 97
+**[EP](proben.md#einfache-proben-ep)**: Athletik + Geschicklichkeit >= 2
+
+Benötigt eine Nebenhandlung.  
+Die Grundgeschwindigkeit ist 3m pro Kampfrunde. Die Geschwindigkeit erhöht sich je Nettoerfolg / 2 (abgerundet) um 1m.
+
+Je nach Gewässer kann der Schwellwert erhöht werden. Zudem steig nach je 15min der Schwellwert um 1.
+
+:octicons-book-16: GRW 95
 
 ## Heimlichkeit
 
