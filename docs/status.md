@@ -1,5 +1,24 @@
 # Status
 
+## Benommen
+
+Initiativeergebnis -4
+
+Ein Schlag zu viel und man ist unfähig in gewohnter Geschwindigkeit zu handeln
+
+:octicons-book-24: GRW 53
+
+## Bewegungsunfähig
+
+:material-dice-6-outline: Würfelpoolmalus -3 (auf alle Angriffe)  
+:material-dice-6-outline: Reaktion = 0 (bei [Verteidigungsproben](kampf.md#wurfeln))
+:material-dice-6-outline: Angriffswert -3  
+
+Ein Charakter kann sich nicht bewegen.  
+Man kann Handlungen durchführen bei denen die Füße auf dem Boden bleiben.
+
+:octicons-book-24: GRW 53
+
 ## Deckung
 
 :material-dice-6-outline: Deckungsstufe 1: Verteidigungspool + 1  
@@ -21,7 +40,7 @@ Sich [in Deckung begeben](handlungen.md#in-deckung-gehen-i) ist ebenfalls eine N
 
 :octicons-book-24: GRW 54, 115
 
-## Liegen
+## Liegend
 
 :material-dice-6-outline: +2 [Verteidigungspool](kampf.md#wurfeln) bei Angriffen aus mittlerer oder größerer Entfernung.  
 :material-dice-6-outline: -2 [Angriffspool](kampf.md#wurfeln) bei Angriffen auf kurze und sehr kurze Entfernung.
