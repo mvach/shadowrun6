@@ -23,7 +23,7 @@ Eine Kampfrunde dauert 3s.
 ### Pool bilden
 
 :material-dice-6-outline: Angriffspool = Waffenfertigkeit + Geschicklichkeit - [Deckungsmalus](status.md#deckung)  
-:material-dice-6-outline: Verteidigungspool = Reaktion + Intuition
+:material-dice-6-outline: Verteidigungspool = Reaktion + Intuition + [Deckungsbonus](status.md#deckung)
 
 :octicons-book-16: GRW 107
 
