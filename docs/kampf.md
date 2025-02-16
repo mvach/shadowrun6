@@ -53,7 +53,7 @@ Die Anzahl der Erfolge des Angreifers und Verteidigers vergleichen. Bei Gleichst
 
 ### Schaden wiederstehen
 
-:material-dice-6-outline: Verteidigungspool = Konstitution + Panzerung + [Deckungsbonus](status.md#deckung)
+:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Konstitution
 
 Jede 5 und 6 absorbiert einen Schaden.
 
