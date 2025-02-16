@@ -54,7 +54,7 @@ Durch diese Handlung gelang man in [Deckung](status.md#deckung).
 
 ### Mehrfachangriffe (I)
 
-Ermöglicht das angreifen mehrerer Gegner durch aufteilen des Würfelpools. Bei verschiedenen Angriffsarten verteilt man den halben (abgerundet) Pool.
+Ermöglicht das angreifen mehrerer Gegner durch aufteilen des Würfelpools. Bei verschiedenen Angriffsarten verteilt man den halben :octicons-arrow-down-16: Pool.
 
 :octicons-book-16: GRW 43
 
@@ -82,7 +82,7 @@ Der Char muss dazu das nötige Equipment besitzen.
 
 ### Volle Deckung (J)
 
-:material-dice-6-outline: Verteidigungspool + 2  
+:material-dice-6-outline: [Verteidigungspool](kampf.md#pool-bilden) + 2  
 :material-dice-6-outline: [Aktionsfertigkeiten](fertigkeiten.md#aktionsfertigkeiten) - 2  
 
 Durch diese Handlung gelangt man in den Status [liegend](status.md#liegen).
@@ -109,7 +109,7 @@ Bewegt man sich mehr als 2m befindet man sich danach im Status [liegend](status.
 
 ### Ziel ansagen (I)
 
-:material-dice-6-outline: Verteidigungspool + 2  
+:material-dice-6-outline: [Verteidigungspool](kampf.md#pool-bilden) + 2  
 :material-dice-6-outline: [Angriffsprobe](kampf.md#wurfeln) - 2
 
 Diese Handlung muss mit der Handlung [Angriff](#angriff) kombiniert werden.

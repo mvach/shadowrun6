@@ -34,12 +34,20 @@ Eine Kampfrunde dauert 3s.
 
 Die Anzahl der Erfolge des Angreifers und Verteidigers vergleichen. Bei Gleichstand gewinnt der Angreifer.
 
+**Nettoerfolge**: Angriffserfolge - Verteidigungserfolge
+
 :octicons-book-16: GRW 108
 
 ### Schaden ermitteln
 
-Schaden = Schadenswert der Waffe + Nettoerfolge + [Feuermodus Bonus](waffen.md#feuermodi)  
-Nettoerfolge = Angriffserfolge - Verteidigungserfolge
+- **0 - 75% [Deckung](status.md#deckung)**:
+
+    Schaden = Schadenswert der Waffe + Nettoerfolge + [Feuermodus Bonus](waffen.md#feuermodi)  
+
+- **100% [Deckung](status.md#deckung)**:  
+
+    Waffenschadenswert - [Deckungsstrukturstufe](barrieren.md#strukturstufen) / 2 :octicons-arrow-down-16:  
+    Nur wenn dann Schaden übrig ist, werden die Nettoerfolge des Angreifers aufaddiert. Und nur dann muss man dem Ergebnis wiederstehen.
 
 :octicons-book-16: GRW 108
 
