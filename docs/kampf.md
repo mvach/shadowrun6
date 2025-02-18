@@ -2,11 +2,11 @@
 
 ## Initiative
 
-:material-dice-6-outline: Initiativewert = Reaktion + Intuition + Summe der Augenzahl der Initiativewürfel - [Benommenheitsmalus](status.md#benommen) - [Gebruzeltmalus](status.md#gebruzelt)
+🎲 Initiativewert = Reaktion + Intuition + Summe der Augenzahl der Initiativewürfel - [Benommenheitsmalus](status.md#benommen) - [Gebruzeltmalus](status.md#gebruzelt)
 
 Initiative wird zu Beginn eines Kampfes gewürfelt.
 
-:octicons-book-24: GRW 110
+📖 GRW 110
 
 ## Kampfrunde
 
@@ -16,19 +16,19 @@ Eine Kampfrunde dauert 3s.
 
 1 Haupthandlung kann gegen 4 Nebenhandlung getauscht werden
 
-:octicons-book-16: GRW 41, 110
+📖 GRW 41, 110
 
 ## Kampf ablauf
 
 ### Pool bilden
 
-:material-dice-6-outline: Angriffspool = Waffenfertigkeit + Geschicklichkeit - [Deckungsmalus](status.md#deckung-1-4) -
+🎲 Angriffspool = Waffenfertigkeit + Geschicklichkeit - [Deckungsmalus](status.md#deckung-1-4) -
     [Erschöpftmalus](status.md#erschopft-1-3) -
     [Bewegungsunfähigkeitsmalus](status.md#bewegungsunfahig) - [Gebruzeltmalus](status.md#gebruzelt)  
-:material-dice-6-outline: Verteidigungspool = Reaktion + Intuition + [Deckungsbonus](status.md#deckung-1-4) -
+🎲 Verteidigungspool = Reaktion + Intuition + [Deckungsbonus](status.md#deckung-1-4) -
     [Erschöpftmalus](status.md#erschopft-1-3)  
 
-:octicons-book-16: GRW 107
+📖 GRW 107
 
 ### Würfeln
 
@@ -39,7 +39,7 @@ Die Anzahl der Erfolge des Angreifers und Verteidigers vergleichen. Bei Gleichst
 
 **Nettoerfolge**: Angriffserfolge - Verteidigungserfolge
 
-:octicons-book-16: GRW 108
+📖 GRW 108
 
 ### Schaden ermitteln
 
@@ -52,15 +52,15 @@ Die Anzahl der Erfolge des Angreifers und Verteidigers vergleichen. Bei Gleichst
     Waffenschadenswert - [Deckungsstrukturstufe](barrieren.md#strukturstufen) / 2 :octicons-arrow-down-16:  
     Nur wenn dann Schaden übrig ist, werden die Nettoerfolge des Angreifers aufaddiert. Und nur dann muss man dem Ergebnis wiederstehen.
 
-:octicons-book-16: GRW 108
+📖 GRW 108
 
 ### Schaden wiederstehen
 
-:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Konstitution
+🎲 **[EP](proben.md#einfache-proben-ep)**: Konstitution
 
 Jede 5 und 6 absorbiert einen Schaden.
 
-:octicons-book-16: GRW 109
+📖 GRW 109
 
 ### Schmerz fühlen
 
@@ -68,4 +68,4 @@ Verzeichne den verbliebenen Schaden auf dem Zustandsmonitor
 
 Nach je 3 Kästchen im Zustandsmonitor erleidet der Char einen Würfelpoolmalus von -1 auf alle Proben, mit Aussnahme von Schadenswiederstandsproben.
 
-:octicons-book-16: GRW 109
+📖 GRW 109

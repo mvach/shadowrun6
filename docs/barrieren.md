@@ -1,6 +1,6 @@
 # Barrieren
 
-:octicons-book-16: GRW 115
+📖 GRW 115
 
 ## Durchbrechen
 
@@ -32,7 +32,7 @@
 
 ### Sprengstoffe
 
-Siehe :octicons-book-24: GRW 115
+Siehe 📖 GRW 115
 
 ## Strukturstufen
 

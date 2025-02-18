@@ -2,7 +2,7 @@
 
 ## Einfache Proben [EP]
 
-:material-dice-6-outline: Fertigkeit + Attribut >= [Schwellwert](proben.md#schwellwerte)
+🎲 Fertigkeit + Attribut >= [Schwellwert](proben.md#schwellwerte)
 
 Man würfelt mit dem Pool, zählt die Erfolge und überprüft ob diese >= dem Schwellwert sind.
 
@@ -20,17 +20,17 @@ Der Schwellwert wind vom SL festgelegt
 | 6           | Spezialistenlevel           | Auf eine Person im Fenster eines Gebäudes in großer Entfernung schießen.           |
 | 7           | Herausragen aus den Besten  | Im laufen auf eine Person im Fenster eines Gebäudes in großer Entfernung schießen. |
 
-:octicons-book-24: GRW 36
+📖 GRW 36
 
 ## Vergleichende Proben [VP]
 
-:material-dice-6-outline: Fertigkeit + Attribut vs. Fertigkeit + Attribut
+🎲 Fertigkeit + Attribut vs. Fertigkeit + Attribut
 
 Bei vergleichenden Proben leistet eine Person, ein Gegenstand, ein Gerät, ... aktiv Widerstand.  
 Beide Seiten würfeln ihre Würfelpools und vergleichen die Erfolge. Bei Gleichstand gewinnt der Aggressor.  
 Nettoerfolge = Aggressorerfolge - Wiederstandserfolge
 
-:octicons-book-24: GRW 36
+📖 GRW 36
 
 ## Ausgedehnte Proben [AP]
 
@@ -40,29 +40,29 @@ Angenommen, ein Char versucht, ein komplexes Programm zu knacken. Der SL könnte
 
 Der Char legt mehrere Proben ablegen, wobei jede Probe eine gewisse Zeit dauert. Wenn er bei der ersten Probe 2 Erfolge erzielt, hat er 2 von 10 geschafft. Bei der nächsten Probe bekommt er vielleicht 3 Erfolge. Wenn der Char in einer Probe einen Fehlschlag hat, kann das den Fortschritte stoppen oder die Anzahl der benötigten Erfolge erhöhen.
 
-:octicons-book-24: GRW 36
+📖 GRW 36
 
 ## Teamworkproben [TP]
 
 Es gibt einen Anführer und viele Helfer. Alle würfeln die gleiche Probe. Die Helfer würfeln zuerst.  
 Alle erzielten Erfolge erhöhen den Pool des Anführers um 1. Maximal bis zum Fertigkeitswert des Anführers.
 
-:octicons-book-24: GRW 38
+📖 GRW 38
 
 
 ## Attributsproben
 
 ### Erinnerungsvermögen
 
-:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Logik + Intuition
+🎲 **[EP](proben.md#einfache-proben-ep)**: Logik + Intuition
 
 Ermöglicht das Erinnern an vergangenes, ein Gesicht, eine wichtige Information, ein Detail aus der Vergangenheit.
 
-:octicons-book-24: GRW 37
+📖 GRW 37
 
 ### Heben und Tragen
 
-:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Konstitution + Willenskraft
+🎲 **[EP](proben.md#einfache-proben-ep)**: Konstitution + Willenskraft
 
 Jeder Char kann Stärke * Stärke * 10 kg heben.  
 Überkopf kann jeder Stärke * Stärke * 5 kg heben.
@@ -72,23 +72,23 @@ Die Probe vereinfacht das Umwerfen eines Autos oder das Ziehen eines Char aus de
 
 Zudem wird 1 Betäubungsschaden verursacht dem mit Konstitution wiederstanden werden kann. Der Schaden stiegt pro Kampfrunde um 1.
 
-:octicons-book-24: GRW 37
+📖 GRW 37
 
 ### Menschenkenntnis
 
-:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Willenskraft + Intuition
+🎲 **[EP](proben.md#einfache-proben-ep)**: Willenskraft + Intuition
 
 Ermöglicht es jemanden besser einschätzen zu können. Die Zeit, die man jemanden gesehen haben muss bevor die Probe möglich ist, bestimmt der SL.
 
-:octicons-book-24: GRW 37
+📖 GRW 37
 
 ### Selbstbeherrschung
 
-:material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Willenskraft + Charisma
+🎲 **[EP](proben.md#einfache-proben-ep)**: Willenskraft + Charisma
 
 Wenn es stressig wird kann der SL eine Probe verlangen um zu sehen wie cool man bleibt.
 
 Der Schwellwert kann sinken wenn man eine vergleichbare Situation bereits mehrfach erlebt hat.
 
 
-:octicons-book-24: GRW 37
+📖 GRW 37
