@@ -177,7 +177,8 @@ Ein Char kann eine [Wahrnehmungsprobe](fertigkeiten.md#wahrnehmung) ablegen.
 
 :material-dice-6-outline: **[EP](proben.md#einfache-proben-ep)**: Athletik + Geschicklichkeit
 
-Die Strecke beträgt 15m + 1m * Anzahl der Erfolge
+Die Strecke beträgt 15m + 1m * Anzahl der Erfolge  
+[Erschöpft](status.md#erschopft-1-3) beträgt die Strecke 10m + 1m * Anzahl der Erfolge
 
 :octicons-book-16: GRW 45
 
