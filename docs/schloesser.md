@@ -27,8 +27,8 @@ Als Schlüssel dienen Magnetkarten, biometrische Daten, RFID Karten, Zahlencodes
 
 Zunächst muss immer das Gehäuse des Magschlosses entfernt werden.
 
-🎲 Entfernen **[EP](proben.md#einfache-proben-ep)**: Mechanik + Geschicklichkeit >= Schlossstufe *2  (Dauer eine Kampfrunde)  
-🎲 Aufbrechen **[AP](proben.md#ausgedehnte-proben-ap)**: Mechanik + Geschicklichkeit >= Schlossstufe* 2
+🎲 Entfernen **[EP](proben.md#einfache-proben-ep)**: Mechanik + Geschicklichkeit >= Schlossstufe * 2  (Dauer eine Kampfrunde)  
+🎲 Aufbrechen **[AP](proben.md#ausgedehnte-proben-ap)**: Mechanik + Geschicklichkeit >= Schlossstufe * 2
 
 Danach ist je nach Typ unterschiedlich vorzugehen:
 
